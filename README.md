@@ -11,7 +11,7 @@ Assignment
       html-loader.
    
 2. Create a .gitignore file in the root of your project. It should contain the text node_modules and dist on separate lines.
-      node_modules
+      node_modules, 
       dist
 
 3. Set up an HTML skeleton inside of src/template.html.
