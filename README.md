@@ -1,5 +1,5 @@
 # Webpack-Restaurant-Page
- Project: Restaurant Page
+ Project: Restaurant Page: https://abongile184.github.io/Webpack-Restaurant-Page/
 
 Note: DOM elements should be created using JavaScript but styling can be done in a separate CSS file.
 Assignment
